@@ -1,1 +1,4 @@
 https://github.com/haicen/DahuaHashCreator
+
+This python can be used to generate Dahua hashes. If you combine it with crunch you are able to generate the files of hashes and try 
+to grep hash which you are looking. 
