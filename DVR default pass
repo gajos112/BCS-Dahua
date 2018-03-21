@@ -1,0 +1,59 @@
+ Rejestratory / DVR / NVR  
+
+Aper – admin/000000
+AVTech – admin/admin
+Dahua/BCS – admin / admin lub 888888 / 888888 lub 666666 / 666666 – adres IP: 192.168.1.108
+D-max – admin/1111
+Edvs/Edvr – admin/9999
+Geovision – admin/admin lub admin/0000 lub admin/1234
+HIKVISION – admin/12345 – port 8000
+Nadatel (Web Client WebROM 1.8) – admin/11111111 lub ADMIN/1111
+NETSuveillance WEB – admin/puste
+Novus – admin/admin lub root/pass lub novus/novus
+Planet NVR – admin/admin
+Raiden – admin/12345
+RTDVR – ADMIN/123456
+RVi- 888888/888888 lub 666666/666666
+Tibet System – admin/
+Urmet DVR – admin/12345
+EDVS/EDVR – admin/999988
+ 
+
+Kamery IP
+ACTi – admin / 123456 lub Admin/123456
+Axis: root / pass, nowa kamera prosi o zmianę hasła przy pierwszym logowaniu
+Avigilon – admin / admin
+AVIOSYS – admin/12345678
+Bosch – service / service
+Brickcom – admin / admin
+Canon – root / (Model aparatu)
+CBC – admin / admin
+CNB – root / admin
+Cisco – brak hasła, prosi o utworzenie hasła przy pierwszym logowaniu
+Dynacol – admin / 1234
+GVI – admin / 1234
+Grandstream – admin / admin
+Foscam – admin/ lub admin/admin
+Honeywell – administrator / 1234
+IOImag – admin / admin
+IPX-DDK – root / admin or root / admin
+IQinVision – root / system
+JVC – admin / JVC
+Merit Lilin – admin / Lub admin / Karnet
+Messo – admin / (Model aparatu)
+Mobotix – admin / Meins
+Panasonic – admin / 12345
+Pelco Sarix – admin / admin
+Pixord – admin / admin
+Riva – Rivatech – root / pass
+QViS – admin / 1234
+Samsung Electronics: root / root lub admin / 4321
+Samsung Techwin (old) – admin / 1111111
+Samsung Techwin (new) – admin / 4321
+Sanyo Kamera IP admin / admin
+Sony – admin / admin
+Stardot – admin / admin Trendnet – admin / admin
+Telexper / txper – admin / 99999999
+Toshiba – root / ikwd
+Ubiquiti – ubnt / ubnt
+Verint – admin / admin Vivotek – root /puste
